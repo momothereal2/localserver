@@ -1,0 +1,19 @@
+{
+  "name": "localserver",
+  "version": "1.0.0",
+  "description": "test\r 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/momothereal2/localserver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/momothereal2/localserver/issues"
+  },
+  "homepage": "https://github.com/momothereal2/localserver#readme"
+}
