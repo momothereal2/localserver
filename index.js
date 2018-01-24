@@ -1,2 +1,5 @@
-console.log("This is the application");
+console.log("Starting server");
+require('http').createServer((req, res) => {
+    res.end("Hello from local server");
+}).listen(8081);
 
