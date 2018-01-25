@@ -1,4 +1,4 @@
-const PORT = 8081;
+const PORT = 80;
 log("Starting server");
 
 let server = require('http').createServer((req, res) => {
